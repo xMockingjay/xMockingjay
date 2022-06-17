@@ -1,7 +1,7 @@
 ### Olá, eu sou Caroline Aramburo 👋
 
 - 🔭 Hoje eu trabalho com Desenvolvimento de Software
-- 🌱 Estudando HTML, CSS, Javascript, NodeJS
+- 🌱 Estudando HTML, CSS, Javascript, NodeJS e React
 - 📫 Contate-me no e-mail: aramburocarol@gmail.com
 - 😄 Pronomes: ela/dela she/her
 
